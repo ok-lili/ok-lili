@@ -1,0 +1,3 @@
+- 👋 Hi, I’m lili
+- 👀 I’m interested in Java Full Stack Dev
+- 🌱 I’m currently learning spring boot
